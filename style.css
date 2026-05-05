@@ -15,7 +15,7 @@ body {
     padding: 0;
     background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
 }
-    }
+
 
 h1 {
     color : #0194f7;
@@ -79,7 +79,7 @@ p {
 }
     
 .contact {
-    background-color: #00bcd4;
+    background-color: #1e1e1e;
     color: white;
     padding: 15px;
     border-radius: 5px;
